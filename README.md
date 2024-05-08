@@ -16,9 +16,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
 [twitter]: https://twitter.com/TJ_GreenGuy
 [linkedin]: https://www.linkedin.com/in/tyrell-green-55a71422a/
 
